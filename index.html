@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
   <style>
-    :root { --navy: #0d1523; --bar: #0a111c; --ink: #e6edf5; --muted: #92a2b8; --accent: #ffc425; --accent-ink: #1c1600; --track: #233349; }
+    :root { --navy: #0d1523; --bar: #0a111c; --ink: #e6edf5; --muted: #92a2b8; --accent: #34d366; --accent-ink: #04200e; --track: #233349; }
     html, body { margin: 0; height: 100%; background: var(--navy); color: var(--ink); overflow: hidden;
                  font-family: "Barlow", system-ui, sans-serif; overscroll-behavior: none; }
     body { height: 100dvh; }
@@ -72,14 +72,14 @@
       <svg class="art" viewBox="0 0 200 400" fill="none" stroke="#5f7590" stroke-width="4" aria-hidden="true">
         <rect x="40" y="10" width="120" height="380" rx="4"/>
         <line x1="100" y1="10" x2="100" y2="150"/>
-        <rect x="58" y="150" width="84" height="96" rx="4" fill="#ffc425" fill-opacity=".18" stroke="#ffc425"/>
-        <line x1="58" y1="198" x2="142" y2="198" stroke="#ffc425"/>
+        <rect x="58" y="150" width="84" height="96" rx="4" fill="#34d366" fill-opacity=".18" stroke="#34d366"/>
+        <line x1="58" y1="198" x2="142" y2="198" stroke="#34d366"/>
         <line x1="40" y1="300" x2="160" y2="300"/>
       </svg>
     </section>
   </main>
   <div id="rotate" role="alert">
-    <svg viewBox="0 0 64 64" fill="none" stroke="#ffc425" stroke-width="3" aria-hidden="true">
+    <svg viewBox="0 0 64 64" fill="none" stroke="#34d366" stroke-width="3" aria-hidden="true">
       <rect x="14" y="6" width="22" height="40" rx="4"/>
       <path d="M44 30a14 14 0 0 1-8 24M36 54l-1-7M36 54l7 0"/>
     </svg>
@@ -124,7 +124,7 @@
 
     // Hosts such as GitHub Pages limit file size, so the deploy step may split the data file into
     // numbered parts and set these two numbers. The parts are joined here, before Unity starts.
-    var dataParts = 2, dataBytes = 158812939;
+    var dataParts = 0, dataBytes = 0;
     var share = dataParts ? 0.9 : 0; // share of the progress bar used by the part downloads
     function downloadParts() {
       var got = 0, blobs = [];
