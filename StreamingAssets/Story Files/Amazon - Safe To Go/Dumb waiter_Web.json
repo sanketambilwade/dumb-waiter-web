@@ -242,7 +242,7 @@
                 "ID": 189868,
                 "Query": "Shoe",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               },
               {
@@ -250,7 +250,7 @@
                 "ID": 529078,
                 "Query": "Vest",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               },
               {
@@ -258,7 +258,7 @@
                 "ID": 622766,
                 "Query": "Gloves",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               }
             ]
@@ -812,7 +812,7 @@
                 "ID": 450473,
                 "Query": "PowerButton",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               },
               {
@@ -820,7 +820,7 @@
                 "ID": 689778,
                 "Query": "PowerButtonON",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               }
             ]
@@ -852,7 +852,7 @@
                     "ID": 450473,
                     "Query": "PowerButton",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   },
                   {
@@ -860,7 +860,7 @@
                     "ID": 689778,
                     "Query": "PowerButtonON",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   },
                   {
@@ -1493,7 +1493,7 @@
                 "ID": 332967,
                 "Query": "CurtainSensor",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               },
               {
@@ -1509,7 +1509,7 @@
                 "ID": 332967,
                 "Query": "CurtainSensor",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               },
               {
@@ -1759,7 +1759,7 @@
                     "ID": 381011,
                     "Query": "LiftDoor1",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   }
                 ]
@@ -1865,7 +1865,7 @@
                 "ID": 889604,
                 "Query": "ManualLeverLockUpper",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               }
             ]
@@ -1897,7 +1897,7 @@
                     "ID": 889604,
                     "Query": "ManualLeverLockUpper",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   }
                 ]
@@ -2019,7 +2019,7 @@
                 "ID": 251737,
                 "Query": "ScissorGateUpper",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               }
             ]
@@ -2051,7 +2051,7 @@
                     "ID": 251737,
                     "Query": "ScissorGateUpper",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   },
                   {
@@ -2477,7 +2477,7 @@
                 "ID": 251737,
                 "Query": "ScissorGateUpper",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               }
             ]
@@ -2509,7 +2509,7 @@
                     "ID": 251737,
                     "Query": "ScissorGateUpper",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   },
                   {
@@ -2603,7 +2603,7 @@
                 "ID": 889604,
                 "Query": "ManualLeverLockUpper",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               }
             ]
@@ -2635,7 +2635,7 @@
                     "ID": 889604,
                     "Query": "ManualLeverLockUpper",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   },
                   {
@@ -2740,7 +2740,7 @@
                 "ID": 381011,
                 "Query": "LiftDoor1",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               }
             ]
@@ -2772,7 +2772,7 @@
                     "ID": 381011,
                     "Query": "LiftDoor1",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   },
                   {
@@ -2848,7 +2848,7 @@
                     "ID": 313092,
                     "Query": "LiftDoorLock",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   },
                   {
@@ -2884,7 +2884,7 @@
                     "ID": 313092,
                     "Query": "LiftDoorLock",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   },
                   {
@@ -2998,7 +2998,7 @@
                 "ID": 568417,
                 "Query": "Down_Button",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               }
             ]
@@ -3030,7 +3030,7 @@
                     "ID": 568417,
                     "Query": "Down_Button",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   },
                   {
@@ -3148,7 +3148,7 @@
                 "ID": 251309,
                 "Query": "LiftDoorLock2",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               }
             ]
@@ -3180,7 +3180,7 @@
                     "ID": 251309,
                     "Query": "LiftDoorLock2",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   }
                 ]
@@ -3240,7 +3240,7 @@
                     "ID": 880488,
                     "Query": "LiftDoor2",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   }
                 ]
@@ -3268,7 +3268,7 @@
                     "ID": 880488,
                     "Query": "LiftDoor2",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   }
                 ]
@@ -3365,7 +3365,7 @@
                 "ID": 860375,
                 "Query": "ManualLeverLockLower",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               }
             ]
@@ -3397,7 +3397,7 @@
                     "ID": 860375,
                     "Query": "ManualLeverLockLower",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   }
                 ]
@@ -3527,7 +3527,7 @@
                 "ID": 809457,
                 "Query": "ScissorGateLower",
                 "Option": "SetActive",
-                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                "Data": "{\"Outline\":true,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                 "Type": 0
               }
             ]
@@ -3559,7 +3559,7 @@
                     "ID": 809457,
                     "Query": "ScissorGateLower",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   },
                   {
@@ -3677,7 +3677,7 @@
                     "ID": 958628,
                     "Query": "CoffeeMachine2",
                     "Option": "SetActive",
-                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":false},\"targetRoleSetId\":0}",
+                    "Data": "{\"Outline\":false,\"Label\":false,\"Highlighter\":false,\"GhostHand\":{\"ghostHandsState\":\"{}\"},\"targetRoleSetId\":0}",
                     "Type": 0
                   },
                   {
